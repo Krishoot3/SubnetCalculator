@@ -1,0 +1,10 @@
+C:\Users\Mato\Documents\Visual Studio 2017\Projects\SubnetCalculator\SubnetCalculator\bin\Debug\SubnetCalculator.exe.config
+C:\Users\Mato\Documents\Visual Studio 2017\Projects\SubnetCalculator\SubnetCalculator\bin\Debug\SubnetCalculator.exe
+C:\Users\Mato\Documents\Visual Studio 2017\Projects\SubnetCalculator\SubnetCalculator\bin\Debug\SubnetCalculator.pdb
+C:\Users\Mato\Documents\Visual Studio 2017\Projects\SubnetCalculator\SubnetCalculator\obj\Debug\SubnetCalculator.csprojAssemblyReference.cache
+C:\Users\Mato\Documents\Visual Studio 2017\Projects\SubnetCalculator\SubnetCalculator\obj\Debug\SubnetCalculator.Form1.resources
+C:\Users\Mato\Documents\Visual Studio 2017\Projects\SubnetCalculator\SubnetCalculator\obj\Debug\SubnetCalculator.Properties.Resources.resources
+C:\Users\Mato\Documents\Visual Studio 2017\Projects\SubnetCalculator\SubnetCalculator\obj\Debug\SubnetCalculator.csproj.GenerateResource.cache
+C:\Users\Mato\Documents\Visual Studio 2017\Projects\SubnetCalculator\SubnetCalculator\obj\Debug\SubnetCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Mato\Documents\Visual Studio 2017\Projects\SubnetCalculator\SubnetCalculator\obj\Debug\SubnetCalculator.exe
+C:\Users\Mato\Documents\Visual Studio 2017\Projects\SubnetCalculator\SubnetCalculator\obj\Debug\SubnetCalculator.pdb
